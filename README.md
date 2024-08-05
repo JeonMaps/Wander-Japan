@@ -34,4 +34,5 @@
 3. run command 'composer update'
 4. run command 'npm install'
 5. run command 'npm run dev'
+6. run command 'php artisan key:generate' to generate the app key
 6. run command 'php artisan serve' and use the generated URL address(ex. http://127.0.0.1:8000) by this command to open it in the browser
